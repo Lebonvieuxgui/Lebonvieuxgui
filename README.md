@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Front-end Development with Vue**
 
-- 👨‍💻 All of my projects are available on [my GitHub Profile](my GitHub Profile)
+- 👨‍💻 All of my projects are available on [my GitHub Profile]
 
 - 📫 Mail : **guillaume.lebreton@epitech.eu**
 
