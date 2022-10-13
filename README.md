@@ -1,7 +1,7 @@
 <h1 align="center">Hi ! I'm Guillaume Lebreton</h1>
 <h3 align="center">2nd Year student at Epitech Bordeaux</h3>
 
-- 🌱 I’m currently learning **Front-end Development with Vue**
+- 🌱 I’m currently learning **Native Developpment with Flutter**
 
 - 👨‍💻 All of my projects are available on my GitHub Profile
 
