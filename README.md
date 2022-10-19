@@ -23,6 +23,8 @@
 
 - 👨‍💻 All of my projects are available on my GitHub Profile
 
+- 🎓Preparing my title of IT Expert
+
 
 <h4 align="left">Connect with me :</h4>
 
