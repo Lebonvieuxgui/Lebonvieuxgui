@@ -23,7 +23,9 @@
 
 - 👨‍💻 All of my projects are available on my GitHub Profile
 
-- 🎓Preparing my title of IT Expert
+- 🎓 Preparing my title of IT Expert
+
+- 🔍 Looking for a third flutter developper to collaborate along with @eljanvier2.
 
 
 <h4 align="left">Connect with me :</h4>
