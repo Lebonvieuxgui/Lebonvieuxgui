@@ -5,7 +5,7 @@
 <div>
     <p>
         <a href="https://github.com/Lebonvieuxgui">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebonvieuxgui&theme=jolly" width="43%" align= "right"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebonvieuxgui&theme=jolly&hide_border=true" width="43%" align= "right"/>
         </a>
     </p>
     <div>
@@ -15,7 +15,7 @@
     </div>
     <div>
         <a href="https://github.com/Lebonvieuxgui">
-            <img src="https://github-readme-stats.vercel.app/api?username=Lebonvieuxgui&theme=jolly&show_icons=true" width="53%"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Lebonvieuxgui&theme=jolly&hide_border=true&show_icons=true" width="53%"/>
         </a>
     </div>
 <h3 align="left">2nd Year student at Epitech Bordeaux</h3>
@@ -28,6 +28,8 @@
 <h4 align="left">Connect with me :</h4>
 
 - 📫 Mail : **guillaume.lebreton@epitech.eu** 
+&nbsp; 
+
 <a href="https://linkedin.com/in/guillaume-lebreton-a07987222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elliot janvier" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
