@@ -18,7 +18,6 @@
             <img src="https://github-readme-stats.vercel.app/api?username=Lebonvieuxgui&theme=tokyonight&hide_border=false&show_icons=true" width="53%"/>
         </a>
     </div>
-<h3 align="left">2nd Year student at Epitech Bordeaux</h3>
 
 - ⚡ I’m currently learning Nobile Developpment with Flutter
 
