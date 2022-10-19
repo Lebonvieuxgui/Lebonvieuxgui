@@ -1,7 +1,6 @@
 &nbsp;
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=45&duration=2000&pause=1000&color=8B68F3&width=800&height=80&lines=Hi+!;I'm+Guillaume Lebreton;2nd year+student at+Epitech Bordeaux" alt="Typing SVG" />
-<p align="center"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=45&duration=2000&pause=1000&color=8B68F3&width=800&height=80&lines=Hi+!;I'm+Guillaume Lebreton;2nd year+student at+Epitech Bordeaux"/>
 <div>
     <p>
         <a href="https://github.com/Lebonvieuxgui">
