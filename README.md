@@ -1,21 +1,21 @@
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Anton&size=35&pause=1000&color=8B68F3&center=false&width=435&lines=Hi%2C+I'm+Guillaume+Lebreton)](https://git.io/typing-svg)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=45&duration=2000&pause=1000&color=8B68F3&width=800&height=80&lines=Hi+!;I'm+Guillaume Lebreton;2nd year+student at+Epitech Bordeaux" alt="Typing SVG" />
+<p align="center"> 
 <div>
     <p>
         <a href="https://github.com/Lebonvieuxgui">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebonvieuxgui&theme=jolly&hide_border=true" width="43%" align= "right"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lebonvieuxgui&theme=tokyonight_duo&hide_border=true" width="43%" align= "right"/>
         </a>
     </p>
     <div>
         <a href="https://github.com/Lebonvieuxgui">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=Lebonvieuxgui&theme=jolly&hide_border=true)](https://git.io/streak-stats" width="53%"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=Lebonvieuxgui&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats" width="53%"/>
         </a>
     </div>
     <div>
         <a href="https://github.com/Lebonvieuxgui">
-            <img src="https://github-readme-stats.vercel.app/api?username=Lebonvieuxgui&theme=jolly&hide_border=true&show_icons=true" width="53%"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Lebonvieuxgui&theme=tokyonight_duo&hide_border=true&show_icons=true" width="53%"/>
         </a>
     </div>
 <h3 align="left">2nd Year student at Epitech Bordeaux</h3>
