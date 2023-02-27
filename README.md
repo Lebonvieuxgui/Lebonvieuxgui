@@ -19,7 +19,7 @@
         </a>
     </div>
 
-- ⚡ I’m currently learning Nobile Developpment with Flutter
+- ⚡ I’m currently learning Mobile Developpment with Flutter
 
 - 👨‍💻 All of my projects are available on my GitHub Profile
 
