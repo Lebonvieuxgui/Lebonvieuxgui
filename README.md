@@ -1,6 +1,6 @@
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=2000&pause=1000&color=8B68F3&width=435&lines=Hi%2C+I'm+Guillaume+Lebreton;Second+Year+student+;at+Epitech+Bordeaux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=2000&pause=1000&color=8B68F3&width=435&lines=Hi%2C+I'm+Guillaume+Lebreton;Third+Year+student+;at+Epitech+Bordeaux)](https://git.io/typing-svg)
 
 <div>
     <p>
